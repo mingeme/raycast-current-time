@@ -11,6 +11,13 @@
   "license": "MIT",
   "commands": [
     {
+      "name": "currentTimePathFormat",
+      "title": "Current time path format",
+      "subtitle": "Display the current time in different formats",
+      "description": "Copy current time to clipboard",
+      "mode": "no-view"
+    },
+    {
       "name": "currentTimeTimestamp",
       "title": "Current time timestamp",
       "subtitle": "Display the current time in different formats",
